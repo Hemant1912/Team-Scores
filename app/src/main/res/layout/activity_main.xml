@@ -89,7 +89,7 @@
             android:layout_marginTop="20dp"
             android:fontFamily="cursive"
             android:gravity="center"
-            android:text="Team A"
+            android:text="Team B"
             android:textColor="#ED6C09"
             android:textSize="30sp" />
 
